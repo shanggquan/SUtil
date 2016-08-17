@@ -25,7 +25,7 @@ Pod::Spec.new do |s|
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   s.description  = <<-DESC
-			第一个版本测试用
+			第一个版本测试用第一个版本测试用第一个版本测试用第一个版本测试用第一个版本测试用第一个版本测试用第一个版本测试用第一个版本测试用第一个版本测试用
                    DESC
 
   s.homepage     = "https://github.com/shanggquan/SUtil"
